@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: ffe9241de523070458e518af52683432
+timeCreated: 1531093119
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ceiling
+    100002: Door
+    100004: DoorFrame
+    100006: ExteriorSiding
+    100008: Grass
+    100010: InteriorSiding
+    100012: RockBase
+    100014: RockSides
+    100016: Shrubs
+    100018: Turf_Base
+    100020: //RootNode
+    100022: Wicker_Back
+    400000: Ceiling
+    400002: Door
+    400004: DoorFrame
+    400006: ExteriorSiding
+    400008: Grass
+    400010: InteriorSiding
+    400012: RockBase
+    400014: RockSides
+    400016: Shrubs
+    400018: Turf_Base
+    400020: //RootNode
+    400022: Wicker_Back
+    2100000: TH_Grass
+    2100002: TH_Shrub
+    2100004: TH_Wattle
+    2100006: TH_Door
+    2100008: TH_Door_Frame
+    2100010: TH_Rock_Base
+    2100012: TH_Rock_Walls
+    2100014: TH_Turf_Base
+    2100016: TH_Interior_Siding
+    2100018: TH_Siding_Out
+    2100020: TH_Turf_Roof
+    2300000: Ceiling
+    2300002: Door
+    2300004: DoorFrame
+    2300006: ExteriorSiding
+    2300008: Grass
+    2300010: InteriorSiding
+    2300012: RockBase
+    2300014: RockSides
+    2300016: Shrubs
+    2300018: Turf_Base
+    2300020: Wicker_Back
+    3300000: Ceiling
+    3300002: Door
+    3300004: DoorFrame
+    3300006: ExteriorSiding
+    3300008: Grass
+    3300010: InteriorSiding
+    3300012: RockBase
+    3300014: RockSides
+    3300016: Shrubs
+    3300018: Turf_Base
+    3300020: Wicker_Back
+    4300000: Grass
+    4300002: Shrubs
+    4300004: Wicker_Back
+    4300006: Door
+    4300008: DoorFrame
+    4300010: RockBase
+    4300012: RockSides
+    4300014: Turf_Base
+    4300016: InteriorSiding
+    4300018: ExteriorSiding
+    4300020: Ceiling
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TH_Door
+    second: {fileID: 2100000, guid: 3832705ef029e0247900e88b9a760f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TH_Door_Frame
+    second: {fileID: 2100000, guid: b39a879c3cdc9c843b4202658c7fc104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TH_Grass
+    second: {fileID: 2100000, guid: 233c605d711e9f34db236838b233261c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TH_Interior_Siding
+    second: {fileID: 2100000, guid: 032bdb4481459c3459334d8dbca33c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TH_Rock_Base
+    second: {fileID: 2100000, guid: f1497fdc2e7014a4aa7de370cb87ca8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TH_Rock_Walls
+    second: {fileID: 2100000, guid: d6b79247ccd6ea346a17e7639a220ca4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TH_Shrub
+    second: {fileID: 2100000, guid: 1115b6328ea88de4682341a0c6ca1244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TH_Siding_Out
+    second: {fileID: 2100000, guid: 04e7c45bfed0b19419d2422e77736c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TH_Turf_Base
+    second: {fileID: 2100000, guid: e257b9eeafecf3e43b79961a646af595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TH_Turf_Roof
+    second: {fileID: 2100000, guid: 929da20e66f6d1648b7ad0412e155256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TH_Wattle
+    second: {fileID: 2100000, guid: 0fe30de4c2c7499489ce03795195c931, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

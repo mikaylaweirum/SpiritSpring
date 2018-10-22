@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: d00fd058846cd474299ca35c20c7e1d9
+timeCreated: 1522960310
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Beams
+    100002: ExteriorStone
+    100004: Fireplace
+    100006: FireplaceShelves
+    100008: Foundation
+    100010: //RootNode
+    100012: HerbHooks
+    100014: Ladder
+    100016: LoftFloor
+    100018: Steps
+    100020: Walls
+    100022: Window_L
+    100024: Window_R
+    400000: Beams
+    400002: ExteriorStone
+    400004: Fireplace
+    400006: FireplaceShelves
+    400008: Foundation
+    400010: //RootNode
+    400012: HerbHooks
+    400014: Ladder
+    400016: LoftFloor
+    400018: Steps
+    400020: Walls
+    400022: Window_L
+    400024: Window_R
+    2100000: Herb_Windows
+    2100002: Herb_Fireplace
+    2100004: Herb_Builtins
+    2100006: Herb_Hooks
+    2100008: Herb_ExteriorWalls
+    2100010: Herb_Steps
+    2100012: Herb_Foundation
+    2100014: Herb_Ladder
+    2100016: Herb_Loft
+    2100018: Herb_ExteriorWood
+    2100020: Herb_Roof
+    2300000: Beams
+    2300002: ExteriorStone
+    2300004: Fireplace
+    2300006: FireplaceShelves
+    2300008: Foundation
+    2300010: HerbHooks
+    2300012: Ladder
+    2300014: LoftFloor
+    2300016: Steps
+    2300018: Walls
+    2300020: Window_L
+    2300022: Window_R
+    3300000: Beams
+    3300002: ExteriorStone
+    3300004: Fireplace
+    3300006: FireplaceShelves
+    3300008: Foundation
+    3300010: HerbHooks
+    3300012: Ladder
+    3300014: LoftFloor
+    3300016: Steps
+    3300018: Walls
+    3300020: Window_L
+    3300022: Window_R
+    4300000: Window_L
+    4300002: Fireplace
+    4300004: FireplaceShelves
+    4300006: HerbHooks
+    4300008: ExteriorStone
+    4300010: Steps
+    4300012: Window_R
+    4300014: Foundation
+    4300016: Ladder
+    4300018: LoftFloor
+    4300020: Walls
+    4300022: Beams
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herb_Builtins
+    second: {fileID: 2100000, guid: cdb300e395970e947a692a0d7c9251ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herb_ExteriorWalls
+    second: {fileID: 2100000, guid: d7c565adca8905c4f96e486dd3f107a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herb_ExteriorWood
+    second: {fileID: 2100000, guid: 4b39f8989c3f55e438f10b87f6506856, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herb_Fireplace
+    second: {fileID: 2100000, guid: 810ae17fd40fb6947be19c6825d0daf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herb_Foundation
+    second: {fileID: 2100000, guid: 9a64efe4f764c88429f6022b6bcf9b0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herb_Hooks
+    second: {fileID: 2100000, guid: be38bd837efde7b4eb081ad857d81d44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herb_Ladder
+    second: {fileID: 2100000, guid: 58584560b03e2c045baccd2c3824dc1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herb_Loft
+    second: {fileID: 2100000, guid: 01f052d5a94f0074c8d7785264afeded, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herb_Roof
+    second: {fileID: 2100000, guid: 988189039ff65b24b91e2e3231da170e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herb_Steps
+    second: {fileID: 2100000, guid: 070dedabba07a9245b8c8843443b8f99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herb_Windows
+    second: {fileID: 2100000, guid: c789d92969b276d418a35238c9fac2e0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
