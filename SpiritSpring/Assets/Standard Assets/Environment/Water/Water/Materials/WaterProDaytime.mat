@@ -35,7 +35,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ReflectiveColor:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: ab97f9ab7c2ce724ebc9446060a819a4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ReflectiveColorCube:
@@ -48,18 +48,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _ReflDistort: 0
-    - _RefrDistort: 1.5
-    - _WaveScale: 0.0517
+    - _RefrDistort: 0.88
+    - _WaveScale: 0.0411
     m_Colors:
-    - WaveSpeed: {r: 2.25, g: 1.1, b: -2, a: -0.3}
+    - WaveSpeed: {r: 1, g: 1, b: -1, a: -1}
     - _BumpMap_ST: {r: 1, g: 1, b: 0, a: 0}
     - _Fresnel_ST: {r: 1, g: 1, b: 0, a: 0}
-    - _HorizonColor: {r: 0.13575952, g: 0.22810712, b: 0.3810788, a: 0}
+    - _HorizonColor: {r: 0.29519895, g: 0.47794116, b: 0.47794116, a: 0}
     - _MainTex_ST: {r: 1, g: 1, b: 0, a: 0}
     - _ReflectionTex_ST: {r: 1, g: 1, b: 0, a: 0}
     - _ReflectiveColorCube_ST: {r: 1, g: 1, b: 0, a: 0}
     - _ReflectiveColor_ST: {r: 1, g: 1, b: 0, a: 0}
-    - _RefrColor: {r: 0.9372549, g: 0.9372549, b: 0.9372549, a: 1}
+    - _RefrColor: {r: 0.2867647, g: 0.5, b: 0.44705886, a: 0.516}
     - _RefractionTex_ST: {r: 1, g: 1, b: 0, a: 0}
 --- !u!1002 &2100001
 EditorExtensionImpl:
