@@ -6,6 +6,7 @@ public class PortalSpawner : MonoBehaviour {
 
     public Transform m_TerrainA;
     public Transform m_TerrainB;
+    public Transform player;
 
     public Camera m_MainCamera;
 
@@ -49,7 +50,18 @@ public class PortalSpawner : MonoBehaviour {
         portalB.SetActive(true);
 
         GameObject portalA = Instantiate(m_PortalA);
-        portalA.transform.position = hit.point + new Vector3(0, 0, 1000f);
+        //add check for terrain side
+        if(player.transform.position.z > -500)
+        {
+            portalA.transform.position = hit.point - new Vector3(0, 0, 1000f);
+            Debug.Log(">-500");
+        }else
+        {
+            portalA.transform.position = hit.point + new Vector3(0, 0, 1000f);
+            Debug.Log("<-500");
+        }
+        
+        
         portalA.transform.Rotate(new Vector3(0, 180f, 0));
         portalA.SetActive(true);
 
