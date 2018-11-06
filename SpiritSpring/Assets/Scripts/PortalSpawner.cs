@@ -26,7 +26,7 @@ public class PortalSpawner : MonoBehaviour {
 	void Update ()
     {
 		//if (OVRInput.GetDown(OVRInput.Button.One))
-        if (Input.GetKeyDown(KeyCode.Y))
+        if (OVRInput.GetDown(OVRInput.Button.One))
         {
             TryRaycast();
         }
@@ -47,6 +47,7 @@ public class PortalSpawner : MonoBehaviour {
     {
         GameObject portalB = Instantiate(m_PortalB);
         portalB.transform.position = hit.point;
+ 
         portalB.SetActive(true);
 
         GameObject portalA = Instantiate(m_PortalA);
