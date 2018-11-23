@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritSpring", "SpiritSpring.csproj", "{41A76A8B-6BE1-3DC4-A15B-D40209FCC998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritSpring.Plugins", "SpiritSpring.Plugins.csproj", "{9A794543-71BF-3375-19C2-7EE90CB7BFE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritSpring.Editor", "SpiritSpring.Editor.csproj", "{89757A4E-BFCA-0BFB-78B5-1A22DA85DA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritSpring.Editor.Plugins", "SpiritSpring.Editor.Plugins.csproj", "{823A42BE-F295-5495-0350-12C7C3351254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41A76A8B-6BE1-3DC4-A15B-D40209FCC998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A76A8B-6BE1-3DC4-A15B-D40209FCC998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A76A8B-6BE1-3DC4-A15B-D40209FCC998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A76A8B-6BE1-3DC4-A15B-D40209FCC998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A794543-71BF-3375-19C2-7EE90CB7BFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A794543-71BF-3375-19C2-7EE90CB7BFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A794543-71BF-3375-19C2-7EE90CB7BFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A794543-71BF-3375-19C2-7EE90CB7BFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89757A4E-BFCA-0BFB-78B5-1A22DA85DA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89757A4E-BFCA-0BFB-78B5-1A22DA85DA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89757A4E-BFCA-0BFB-78B5-1A22DA85DA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89757A4E-BFCA-0BFB-78B5-1A22DA85DA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823A42BE-F295-5495-0350-12C7C3351254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823A42BE-F295-5495-0350-12C7C3351254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823A42BE-F295-5495-0350-12C7C3351254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823A42BE-F295-5495-0350-12C7C3351254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
